@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tinyhouseliving.net/blog-tinyhouseliving/sitemap.xml
